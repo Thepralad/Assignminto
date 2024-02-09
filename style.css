@@ -5,7 +5,7 @@ body{
     background-color: rgb(156, 163, 235);
 }
 .assignminto{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     padding-top: 14px;
     height: 60px;
@@ -14,17 +14,19 @@ body{
 }
 
 video{
-    height: 130px;
-    width: 250px;
-    padding-left: 35px;
-    padding-top: 30px;
+    height: 150px;
+    width: 300px;
+    padding-left: 44px;
+    padding-top: 60px;
 }
 .slogan{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 120px;
 }
 
 .container{
-    padding-left: 130px;
+    padding-left: 160px;
     padding-top: 50px;
 }
